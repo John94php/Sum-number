@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sum Numbers</string>
+    <string name="add">ADD</string>
+    <string name="second_number">Wpisz drugą liczbę</string>
+    <string name="first_number">Wpisz pierwszą liczbę</string>
+    <string name="app_description">Program do dodawania dwóch liczb całkowitych lub po przecinku</string>
+</resources>
